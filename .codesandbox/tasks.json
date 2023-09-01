@@ -8,6 +8,10 @@
       "name": "whereis htop",
       "command": "whereis htop",
       "runAtStart": true
+    },
+    "B": {
+      "name": "B",
+      "command": "B"
     }
   }
 }
